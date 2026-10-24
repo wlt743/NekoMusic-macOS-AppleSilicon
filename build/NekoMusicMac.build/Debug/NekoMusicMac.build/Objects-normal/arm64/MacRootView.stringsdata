@@ -1,0 +1,40 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacRootView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "主页",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "排行榜",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "最新上架",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "我的",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 66
+        }
+      }
+    ]
+  },
+  "version": 1
+}

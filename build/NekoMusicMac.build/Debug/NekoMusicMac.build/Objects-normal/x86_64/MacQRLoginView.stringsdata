@@ -1,0 +1,40 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacQRLoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "扫码登录",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "二维码 %lld 秒后失效",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "刷新二维码",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "使用账号密码",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 63
+        }
+      }
+    ]
+  },
+  "version": 1
+}

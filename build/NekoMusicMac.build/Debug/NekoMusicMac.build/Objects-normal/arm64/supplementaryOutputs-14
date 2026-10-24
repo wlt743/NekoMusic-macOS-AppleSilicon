@@ -1,0 +1,30 @@
+{
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacProfileView.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacProfileView.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacProfileView.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacProfileView.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacProfileView.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacProfileView.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacQRLoginView.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacQRLoginView.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacQRLoginView.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacQRLoginView.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacQRLoginView.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacQRLoginView.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacRootView.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacRootView.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacRootView.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacRootView.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacRootView.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacRootView.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacSettingsView.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacSettingsView.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacSettingsView.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacSettingsView.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacSettingsView.swiftdeps"
+  }
+}

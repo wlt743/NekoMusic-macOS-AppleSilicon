@@ -1,0 +1,80 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MiniPlayerWindow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "显示主窗口",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "上一首",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "暂停",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "播放",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "下一首",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "取消收藏",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "收藏",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "播放歌曲并在此处查看歌词。",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "跳转到这句",
+        "location": {
+          "startingColumn": 15,
+          "startingLine": 235
+        }
+      }
+    ]
+  },
+  "version": 1
+}

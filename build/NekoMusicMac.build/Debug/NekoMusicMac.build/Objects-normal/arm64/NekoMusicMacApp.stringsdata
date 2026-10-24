@@ -1,0 +1,48 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/NekoMusicMacApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "正在播放",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "迷你播放器",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "播放 / 暂停",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "打开迷你播放器",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "正在播放",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

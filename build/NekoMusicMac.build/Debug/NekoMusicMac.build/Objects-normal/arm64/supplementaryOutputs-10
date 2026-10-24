@@ -1,0 +1,30 @@
+{
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/DesktopLyricsPanel.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DesktopLyricsPanel.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DesktopLyricsPanel.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DesktopLyricsPanel.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DesktopLyricsPanel.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DesktopLyricsPanel.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/DominantColor.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DominantColor.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DominantColor.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DominantColor.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DominantColor.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/DominantColor.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/LyricsParser.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/LyricsParser.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/LyricsParser.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/LyricsParser.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/LyricsParser.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/LyricsParser.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacHomeView.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacHomeView.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacHomeView.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacHomeView.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacHomeView.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/arm64/MacHomeView.swiftdeps"
+  }
+}

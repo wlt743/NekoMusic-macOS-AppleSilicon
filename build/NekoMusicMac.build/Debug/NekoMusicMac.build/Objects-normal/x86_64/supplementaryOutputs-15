@@ -1,0 +1,30 @@
+{
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacWallpaperBackdrop.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MacWallpaperBackdrop.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MacWallpaperBackdrop.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MacWallpaperBackdrop.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MacWallpaperBackdrop.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MacWallpaperBackdrop.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MiniPlayerWindow.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MiniPlayerWindow.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MiniPlayerWindow.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MiniPlayerWindow.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MiniPlayerWindow.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MiniPlayerWindow.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/NativeSlider.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NativeSlider.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NativeSlider.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NativeSlider.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NativeSlider.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NativeSlider.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/SystemPlayerView.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/SystemPlayerView.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/SystemPlayerView.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/SystemPlayerView.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/SystemPlayerView.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/SystemPlayerView.swiftdeps"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Services/MusicUploadService.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MusicUploadService.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MusicUploadService.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MusicUploadService.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MusicUploadService.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/MusicUploadService.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Services/NetworkService.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NetworkService.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NetworkService.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NetworkService.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NetworkService.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NetworkService.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Services/NonceService.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NonceService.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NonceService.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NonceService.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NonceService.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NonceService.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Services/NotificationService.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NotificationService.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NotificationService.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NotificationService.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NotificationService.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/NotificationService.swiftdeps"
+  },
+  "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Services/PlaylistEditService.swift" : {
+    "const-values" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/PlaylistEditService.swiftconstvalues",
+    "dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/PlaylistEditService.d",
+    "diagnostics" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/PlaylistEditService.dia",
+    "object" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/PlaylistEditService.o",
+    "swift-dependencies" : "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/build/NekoMusicMac.build/Debug/NekoMusicMac.build/Objects-normal/x86_64/PlaylistEditService.swiftdeps"
+  }
+}

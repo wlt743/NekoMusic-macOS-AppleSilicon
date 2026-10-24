@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A100000000 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000000 /* Music.swift */; };
+		A100000001 /* Playlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000001 /* Playlist.swift */; };
+		A100000002 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000002 /* User.swift */; };
+		A100000003 /* APIConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000003 /* APIConfig.swift */; };
+		A100000004 /* AppearanceSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000004 /* AppearanceSettings.swift */; };
+		A100000005 /* AudioPlayerService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000005 /* AudioPlayerService.swift */; };
+		A100000006 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000006 /* AuthService.swift */; };
+		A100000007 /* BlacklistService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000007 /* BlacklistService.swift */; };
+		A100000008 /* CacheService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000008 /* CacheService.swift */; };
+		A100000009 /* FavoritePlaylistService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200000009 /* FavoritePlaylistService.swift */; };
+		A10000000A /* MusicService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000A /* MusicService.swift */; };
+		A10000000B /* MusicUploadService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000B /* MusicUploadService.swift */; };
+		A10000000C /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000C /* NetworkService.swift */; };
+		A10000000D /* NonceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000D /* NonceService.swift */; };
+		A10000000E /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000E /* NotificationService.swift */; };
+		A10000000F /* PlaylistEditService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000F /* PlaylistEditService.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A200000000 /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
+		A200000001 /* Playlist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Playlist.swift; sourceTree = "<group>"; };
+		A200000002 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A200000003 /* APIConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConfig.swift; sourceTree = "<group>"; };
+		A200000004 /* AppearanceSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceSettings.swift; sourceTree = "<group>"; };
+		A200000005 /* AudioPlayerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerService.swift; sourceTree = "<group>"; };
+		A200000006 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		A200000007 /* BlacklistService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlacklistService.swift; sourceTree = "<group>"; };
+		A200000008 /* CacheService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheService.swift; sourceTree = "<group>"; };
+		A200000009 /* FavoritePlaylistService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritePlaylistService.swift; sourceTree = "<group>"; };
+		A20000000A /* MusicService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicService.swift; sourceTree = "<group>"; };
+		A20000000B /* MusicUploadService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicUploadService.swift; sourceTree = "<group>"; };
+		A20000000C /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		A20000000D /* NonceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonceService.swift; sourceTree = "<group>"; };
+		A20000000E /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		A20000000F /* PlaylistEditService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistEditService.swift; sourceTree = "<group>"; };
+		A2000099 /* NekoMusicMac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NekoMusicMac.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A5000002 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A3000001 = {
+			isa = PBXGroup;
+			children = (
+				A3000002 /* NekoMusicMac */,
+				A3000010 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A3000002 /* NekoMusicMac */ = {
+			isa = PBXGroup;
+			children = (
+				A300000000 /* Models */,
+				A300000001 /* Services */,
+			);
+			path = NekoMusicMac;
+			sourceTree = "<group>";
+		};
+		A300000000 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A200000000 /* Music.swift */,
+				A200000001 /* Playlist.swift */,
+				A200000002 /* User.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A300000001 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				A200000003 /* APIConfig.swift */,
+				A200000004 /* AppearanceSettings.swift */,
+				A200000005 /* AudioPlayerService.swift */,
+				A200000006 /* AuthService.swift */,
+				A200000007 /* BlacklistService.swift */,
+				A200000008 /* CacheService.swift */,
+				A200000009 /* FavoritePlaylistService.swift */,
+				A20000000A /* MusicService.swift */,
+				A20000000B /* MusicUploadService.swift */,
+				A20000000C /* NetworkService.swift */,
+				A20000000D /* NonceService.swift */,
+				A20000000E /* NotificationService.swift */,
+				A20000000F /* PlaylistEditService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		A3000010 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A2000099 /* NekoMusicMac.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A4000001 /* NekoMusicMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A6000001 /* Build configuration list for PBXNativeTarget "NekoMusicMac" */;
+			buildPhases = (
+				A5000001 /* Sources */,
+				A5000002 /* Frameworks */,
+				A5000003 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NekoMusicMac;
+			productName = NekoMusicMac;
+			productReference = A2000099 /* NekoMusicMac.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A7000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = A6000002 /* Build configuration list for PBXProject "NekoMusicMac" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hans",
+			);
+			mainGroup = A3000001;
+			productRefGroup = A3000010 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A4000001 /* NekoMusicMac */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A5000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A5000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A100000000 /* Music.swift in Sources */,
+				A100000001 /* Playlist.swift in Sources */,
+				A100000002 /* User.swift in Sources */,
+				A100000003 /* APIConfig.swift in Sources */,
+				A100000004 /* AppearanceSettings.swift in Sources */,
+				A100000005 /* AudioPlayerService.swift in Sources */,
+				A100000006 /* AuthService.swift in Sources */,
+				A100000007 /* BlacklistService.swift in Sources */,
+				A100000008 /* CacheService.swift in Sources */,
+				A100000009 /* FavoritePlaylistService.swift in Sources */,
+				A10000000A /* MusicService.swift in Sources */,
+				A10000000B /* MusicUploadService.swift in Sources */,
+				A10000000C /* NetworkService.swift in Sources */,
+				A10000000D /* NonceService.swift in Sources */,
+				A10000000E /* NotificationService.swift in Sources */,
+				A10000000F /* PlaylistEditService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A8000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A8000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		A8000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B9N6W9S7D8;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = NekoMusic;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wlt743.nekomusic.mac;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A8000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B9N6W9S7D8;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = NekoMusic;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wlt743.nekomusic.mac;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A6000001 /* Build configuration list for PBXNativeTarget "NekoMusicMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8000003 /* Debug */,
+				A8000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A6000002 /* Build configuration list for PBXProject "NekoMusicMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8000001 /* Debug */,
+				A8000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A7000001 /* Project object */;
+}

@@ -1,0 +1,144 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacSettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "外观",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "外观模式",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "主题色",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "壁纸",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "歌词",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "模式",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "跟随系统",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "浅色",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "深色",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "自定义颜色",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "选择图片…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "移除",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "模糊 %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "遮罩 %lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "桌面歌词悬浮窗",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "字号 %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "完成",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 104
+        }
+      }
+    ]
+  },
+  "version": 1
+}

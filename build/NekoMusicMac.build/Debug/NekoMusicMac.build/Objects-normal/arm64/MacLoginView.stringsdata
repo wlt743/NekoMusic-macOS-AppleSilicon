@@ -1,0 +1,64 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacLoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "登录后才能使用收藏、歌单同步等功能",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "登录 NekoMusic",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "邮箱",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "密码",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "登录中…",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "登录",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "扫码登录（用手机确认）",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 59
+        }
+      }
+    ]
+  },
+  "version": 1
+}

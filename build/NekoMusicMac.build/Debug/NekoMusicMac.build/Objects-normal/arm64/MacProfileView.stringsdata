@@ -1,0 +1,80 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "我的",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "账户",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "外观",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "版本",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "登录",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "昵称",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "用户 ID",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "主题色与壁纸",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "版本",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

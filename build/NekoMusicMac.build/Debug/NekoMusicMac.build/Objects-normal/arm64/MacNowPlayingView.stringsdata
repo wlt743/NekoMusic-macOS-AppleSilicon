@@ -1,0 +1,32 @@
+{
+  "source": "/Users/bf/Documents/deepseek-harness/default-workspace/NekoMusicMac/NekoMusicMac/Views/MacNowPlayingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "收起播放页（Esc）",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "收起",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "播放歌曲并在此处查看歌词。",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 168
+        }
+      }
+    ]
+  },
+  "version": 1
+}
